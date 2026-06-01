@@ -15,8 +15,4 @@ Pandas
 Matplotlib
 Scikit-learn
 
-Features
-Separate files for each task
-Multiple graphs using matplotlib
-KNN Regression model
-Polynomial Regression model
+
