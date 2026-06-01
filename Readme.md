@@ -8,11 +8,13 @@ Polynomial Regression
 Model Evaluation
 
 ### Dataset used: WindPower.csv
-Technologies Used
+
+Technologies Used:
 Python
 Pandas
 Matplotlib
 Scikit-learn
+
 Features
 Separate files for each task
 Multiple graphs using matplotlib
