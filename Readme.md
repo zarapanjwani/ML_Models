@@ -5,12 +5,9 @@ Exploratory Data Analysis (EDA)
 Data Visualization using matplotlib
 KNN Regression
 Polynomial Regression
-Model Evaluation using MAE
+Model Evaluation
 
 ### Dataset used: WindPower.csv
-
-The project is divided into multiple simple Python files so beginners can easily understand each concept step by step.
-
 Technologies Used
 Python
 Pandas
